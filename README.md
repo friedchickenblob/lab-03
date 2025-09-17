@@ -1,12 +1,11 @@
 # CMPUT 301 : Lab 3 Participation Exercise
 
+Jordan Kwan jck2
+
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://developer.android.com
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+N/A
